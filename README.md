@@ -43,12 +43,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/DantePrograma/DantePrograma/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <a href="https://open.spotify.com/user/corogaby82">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=corogaby82&count=6&unique=false" alt="Spotify recently played"  />
