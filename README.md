@@ -2,7 +2,7 @@
 
 ###
 
-<p>Technologies</p>
+<h3>Technologies</h3>
 
 ###
 
